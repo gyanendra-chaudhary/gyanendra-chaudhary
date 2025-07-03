@@ -1,8 +1,9 @@
 name: Update Activity
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:     # Allows manual triggering
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
@@ -11,3 +12,4 @@ jobs:
       - uses: JasonEtco/activity-box@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "Update activity log"
