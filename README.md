@@ -103,23 +103,6 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 - **Location:** Kirtipur, Kathmandu, Nepal
 
 ---
-## Option 1: Link to Your GitHub Profile
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/gyanendra-chaudhary">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?logo=github&logoColor=white" alt="View GitHub Profile" />
-  </a>
-</p>
-
-
-## Option 2: Embed GitHub Profile Card
-
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -128,32 +111,6 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
-
-## Option 3: Simple Text Reference
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  📊 <a href="https://github.com/gyanendra-chaudhary">Visit my GitHub profile to see detailed contribution activity</a>
-</p>
-
-
-## Option 4: GitHub Profile Summary Cards (Most Similar to Default)
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=gyanendra-chaudhary&theme=radical" alt="Commits Per Day" />
 </p>
 ---
 
