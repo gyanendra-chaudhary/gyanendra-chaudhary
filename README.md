@@ -1,130 +1,61 @@
-<h1 align="center">Hi 👋, I'm Gyanendra Chaudhary</h1>
-<h3 align="center">Full Stack Developer | React | .NET | SQL</h3>
+<h1 align="center">Hi there, I'm Gyanendra Chaudhary! 👋</h1>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra-chaudhary" />
+I'm a passionate developer who loves turning ideas into reality through code.<br>
+With expertise in multiple programming languages and frameworks, I enjoy solving complex problems<br>
+and building efficient, scalable solutions. When I'm not coding, you can find me<br>
+exploring new technologies, contributing to open-source projects, or mentoring fellow developers.
 </p>
 
----
+<div align="center">
+  <a href="https://github.com/gyanendra-chaudhary">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-chaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-## 🌟 About Me
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
+</div>
 
-I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQL databases**, passionate about building scalable and efficient software solutions. Currently working at **Avishkaram Technologies** leveraging **Microsoft Graph API** with .NET and optimizing React applications for performance.
+<h2 align="center">🛠️ My Tech Stack</h2>
 
----
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=gyanendra-chaudhary&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-## 🛠️ Skills
+<h2 align="center">🔥 Recent Activity</h2>
 
-### **Programming Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### **Backend Development**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=.net&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.net&logoColor=white" alt="Dapper" />
-</p>
-
-### **Frontend Development**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?logo=responsive-design&logoColor=white" alt="Responsive Design" />
-</p>
-
-### **Databases**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MS-SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### **DevOps & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white" alt="Teams" />
-</p>
-
-### **Microsoft Stack**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?logo=microsoft&logoColor=white" alt="Microsoft Graph" />
-  <img src="https://img.shields.io/badge/Office.js-D83B01?logo=microsoft-office&logoColor=white" alt="Office.js" />
-</p>
-
-### **Architecture & Design**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OOP-FF6C37?logo=object-oriented-programming&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/SOLID%20Principles-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
-  <span align="left">
-  <img src="https://img.shields.io/badge/Design%20Patterns-FF6C37?logo=design-patterns&logoColor=white" alt="Design Patterns" />
-  </span>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white" alt="REST API" />
-</p>
-
-### **Testing**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/xUnit-512BD4?logo=.net&logoColor=white" alt="xUnit" />
-</p>
-
----
-
-## 📚 Education & Certifications
-
-- **BCA** | Tribhuvan University (Hetauda City College) _(2018 - 2023)_
-- **ASP.NET Core Training** | Broadway Infosys _(2022, 113 Hrs)_
-- **Web Page Designing** | NIIT Birgunj _(2016, 3 Months)_
-
----
-
-## 📫 Connect with Me
-
-- **Email:** dev.gyanendrapc@gmail.com
-- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/gyanendra-chaudhary)
-- **Phone:** +977 9864374699
-- **Location:** Kirtipur, Kathmandu, Nepal
-
----
-
-## 📈 GitHub Stats  
+<!--START_SECTION:activity-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+<!--END_SECTION:activity-->
+</p>
+
+<h2 align="center">📫 How to reach me</h2>
+
+<p align="center">
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="your-twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-chaudhary&" alt="gyanendra-chaudhary" /></p>
+  <img src="https://komarev.com/ghpvc/?username=gyanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<blockquote align="center">
+  <p>💡 <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
+</blockquote>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyanendra-chaudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-> 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
