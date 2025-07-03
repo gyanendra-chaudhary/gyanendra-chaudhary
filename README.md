@@ -30,9 +30,12 @@ exploring new technologies, contributing to open-source projects, or mentoring f
 <h2 align="center">🔥 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-<p align="center">
+1. ❗️ Opened issue [#123] in [owner/repo] - "Bug fix needed"
+2. 🎉 Merged PR [#456] in [owner/repo] - "Feature implementation"
+3. 💪 Opened PR [#789] in [owner/repo] - "Documentation update"
+4. 🚀 Pushed 3 commits to [owner/repo]
+5. ⭐️ Starred [owner/repo]
 <!--END_SECTION:activity-->
-</p>
 
 <h2 align="center">📫 How to reach me</h2>
 
@@ -40,8 +43,8 @@ exploring new technologies, contributing to open-source projects, or mentoring f
   <a href="https://www.linkedin.com/in/gyanendra-chaudhary">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://stackoverflow.com/users/19219669/gyanendra-chaudhary">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="mailto:dev.gyanendrapc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
