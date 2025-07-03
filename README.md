@@ -111,7 +111,9 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-chaudhary&" alt="gyanendra-chaudhary" /></p>
 </p>
+
 
 ---
 
