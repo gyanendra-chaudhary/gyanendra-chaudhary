@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gyanendra Chaudhary</h1>
-<h3 align="center">Full Stack Developer | React | ASP.NET Core | SQL</h3>
+<h3 align="center">Full Stack Developer | React | .NET | SQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ayanendra-chaudhary" />
+  <img src="https://komarev.com/ghpvc/?username=gyanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra-chaudhary" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Full Stack Developer** with expertise in **ReactJS**, **ASP.NET Core**, and **SQL databases**, passionate about building scalable and efficient software solutions. Currently leveraging **Microsoft Graph API** and optimizing React applications for performance.  
+I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQL databases**, passionate about building scalable and efficient software solutions. Currently working at **Avishkaram Technologies** leveraging **Microsoft Graph API** with .NET and optimizing React applications for performance.
 
 🎓 **Education:** BCA from Tribhuvan University (Hetauda City College).  
+🌍 **Location:** Kirtipur, Kathmandu, Nepal  
+💼 **Experience:** 3+ years in software development  
 
 ---
 
@@ -27,27 +29,26 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **ASP.NET Core**, 
 
 ### **Backend Development**  
 <p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=.net&logoColor=white" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?logo=.net&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=.net&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=.net&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.net&logoColor=white" alt="Dapper" />
 </p>
 
 ### **Frontend Development**  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?logo=responsive-design&logoColor=white" alt="Responsive Design" />
 </p>
 
 ### **Databases**  
 <p align="left">
   <img src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MS-SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### **DevOps & Tools**  
@@ -65,9 +66,8 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **ASP.NET Core**, 
 
 ### **Architecture & Design**  
 <p align="left">
-  <img src="https://img.shields.io/badge/OOP-FF6C37?logo=oop&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/SOLID-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
-  <img src="https://img.shields.io/badge/Design_Patterns-FF6C37?logo=design-patterns&logoColor=white" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/OOP-FF6C37?logo=object-oriented-programming&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/SOLID%20Principles-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white" alt="REST API" />
 </p>
 
@@ -75,6 +75,23 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **ASP.NET Core**, 
 <p align="left">
   <img src="https://img.shields.io/badge/xUnit-512BD4?logo=.net&logoColor=white" alt="xUnit" />
 </p>
+
+---
+
+## 💼 Work Experience
+
+### **Avishkaram Technologies** *(Aug 2022 - Present)*
+**Full Stack Developer**
+- Designed and developed software applications using ReactJS and .NET
+- Integrated Microsoft Graph API and third-party APIs for enhanced functionality
+- Optimized SQL databases for efficient data storage and retrieval
+- Worked on LegalTech, Productivity Tools, CRM Solutions, and anti-phishing services
+
+### **Saayami Technologies** *(Dec 2021 - Aug 2022)*
+**Software Developer Intern**
+- Contributed to management system development in Hospitality & Food Service domain
+- Implemented dynamic user interfaces using HTML, CSS, and JavaScript/jQuery
+- Optimized MySQL queries for improved system performance
 
 ---
 
@@ -87,21 +104,33 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **ASP.NET Core**, 
 
 ## 📫 Connect with Me  
 - **Email:** dev.gyanendrapc@gmail.com  
-- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/ayanendra-chaudhary)  
-- **GitHub:** [ayanendra-chaudhary](https://github.com/ayanendra-chaudhary)  
+- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/gyanendra-chaudhary)  
+- **Phone:** +977 9864374699  
+- **Location:** Kirtipur, Kathmandu, Nepal  
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanendra-chaudhary&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanendra-chaudhary&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-chaudhary&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gyanendra-chaudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 > 💡 *"First, solve the problem. Then, write the code."* – John Johnson  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
