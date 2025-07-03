@@ -73,6 +73,9 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 <p align="left">
   <img src="https://img.shields.io/badge/OOP-FF6C37?logo=object-oriented-programming&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID%20Principles-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
+  <p align="left">
+  <img src="https://img.shields.io/badge/Design%20Patterns-FF6C37?logo=design-patterns&logoColor=white" alt="Design Patterns" />
+</p>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white" alt="REST API" />
 </p>
 
