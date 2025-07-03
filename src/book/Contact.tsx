@@ -75,9 +75,10 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-
             <div className="mt-auto pt-6">
-                <p className="text-xs text-gray-500 text-center">Open to full-time roles, freelance projects, and technical discussions</p>
+                <p className="text-xs text-gray-500 text-center">
+                    Thanks for visiting! Open to new projects and conversations.
+                </p>
             </div>
         </div>
     );

@@ -41,7 +41,7 @@ const Introduction = () => {
             </div>
 
             <div className="mt-auto pt-4 border-t border-gray-100">
-                <p className="text-xs text-gray-500 text-center">Scroll down to continue</p>
+                <p className="text-xs text-gray-500 text-center">Swip left to continue</p>
             </div>
         </div>
     );

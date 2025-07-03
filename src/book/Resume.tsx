@@ -28,7 +28,7 @@ const Resume = () => {
                 <a
                     href={ResumePdf}
                     download="Gyanendra_Chaudhary_Resume.pdf"
-                    className="text-sm text-primary text-white px-4 py-1 rounded transition-colors"
+                    className="text-sm text-primary px-4 py-1 rounded transition-colors"
                 >
                     Download PDF
                 </a>
