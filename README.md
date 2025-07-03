@@ -41,6 +41,8 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?logo=responsive-design&logoColor=white" alt="Responsive Design" />
 </p>
 
@@ -75,23 +77,6 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 <p align="left">
   <img src="https://img.shields.io/badge/xUnit-512BD4?logo=.net&logoColor=white" alt="xUnit" />
 </p>
-
----
-
-## 💼 Work Experience
-
-### **Avishkaram Technologies** *(Aug 2022 - Present)*
-**Full Stack Developer**
-- Designed and developed software applications using ReactJS and .NET
-- Integrated Microsoft Graph API and third-party APIs for enhanced functionality
-- Optimized SQL databases for efficient data storage and retrieval
-- Worked on LegalTech, Productivity Tools, CRM Solutions, and anti-phishing services
-
-### **Saayami Technologies** *(Dec 2021 - Aug 2022)*
-**Software Developer Intern**
-- Contributed to management system development in Hospitality & Food Service domain
-- Implemented dynamic user interfaces using HTML, CSS, and JavaScript/jQuery
-- Optimized MySQL queries for improved system performance
 
 ---
 
