@@ -1,1 +1,14 @@
 
+name: Update Activity
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs hourly
+  workflow_dispatch:      # Allows manual runs
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JasonEtco/activity-box@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
