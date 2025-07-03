@@ -103,6 +103,7 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 - **Location:** Kirtipur, Kathmandu, Nepal
 
 ---
+
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -112,6 +113,7 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
 </p>
+
 ---
 
 > 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
