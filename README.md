@@ -116,6 +116,12 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gyanendra-chaudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 > 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 <p align="center">
