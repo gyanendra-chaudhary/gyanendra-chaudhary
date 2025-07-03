@@ -26,11 +26,11 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 ### **Backend Development**
 
-<span align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=.net&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.net&logoColor=white" alt="Dapper" />
-</span>
+</p>
 
 ### **Frontend Development**
 
@@ -73,9 +73,9 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 <p align="left">
   <img src="https://img.shields.io/badge/OOP-FF6C37?logo=object-oriented-programming&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID%20Principles-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
-  <p align="left">
+  <span align="left">
   <img src="https://img.shields.io/badge/Design%20Patterns-FF6C37?logo=design-patterns&logoColor=white" alt="Design Patterns" />
-</p>
+  </span>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white" alt="REST API" />
 </p>
 
