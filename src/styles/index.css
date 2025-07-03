@@ -1,4 +1,5 @@
 @import "tailwindcss";
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -6,11 +7,54 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #646cff, #535bf2, #747bff);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #535bf2, #646cff, #747bff);
+}
+
+/* Apply to iframes as well */
+iframe::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+iframe::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+iframe::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #646cff, #535bf2, #747bff);
+  border-radius: 10px;
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #646cff rgba(0, 0, 0, 0.1);
 }
 
 a {
@@ -42,6 +86,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
+  background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -55,13 +100,26 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    /* color: #213547; */
-    /* background-color: #ffffff; */
+    color: #213547;
+    background-color: #ffffff;
   }
   a:hover {
     color: #747bff;
   }
   button {
     background-color: #f9f9f9;
+  }
+
+  /* Light mode scrollbar */
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #646cff, #747bff, #535bf2);
+  }
+
+  iframe::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #646cff, #747bff, #535bf2);
+  }
+
+  * {
+    scrollbar-color: #646cff rgba(0, 0, 0, 0.05);
   }
 }

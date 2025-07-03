@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function MotherBabyEndCover() {
     return (
         <div className="relative w-full h-screen bg-gradient-to-tl from-purple-50 via-pink-50 to-yellow-50 overflow-hidden">
