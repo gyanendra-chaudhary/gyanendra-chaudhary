@@ -26,11 +26,11 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 ### **Backend Development**
 
-<p align="left">
+<span align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=.net&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.net&logoColor=white" alt="Dapper" />
-</p>
+</span>
 
 ### **Frontend Development**
 
