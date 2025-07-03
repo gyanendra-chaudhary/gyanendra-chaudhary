@@ -13,13 +13,14 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 🎓 **Education:** BCA from Tribhuvan University (Hetauda City College).  
 🌍 **Location:** Kirtipur, Kathmandu, Nepal  
-💼 **Experience:** 3+ years in software development  
+💼 **Experience:** 3+ years in software development
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
-### **Programming Languages**  
+### **Programming Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,14 +28,16 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### **Backend Development**  
+### **Backend Development**
+
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=.net&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.net&logoColor=white" alt="Dapper" />
 </p>
 
-### **Frontend Development**  
+### **Frontend Development**
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" alt="Material UI" />
@@ -46,75 +49,87 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
   <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?logo=responsive-design&logoColor=white" alt="Responsive Design" />
 </p>
 
-### **Databases**  
+### **Databases**
+
 <p align="left">
   <img src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MS-SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### **DevOps & Tools**  
+### **DevOps & Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white" alt="Teams" />
 </p>
 
-### **Microsoft Stack**  
+### **Microsoft Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?logo=microsoft&logoColor=white" alt="Microsoft Graph" />
   <img src="https://img.shields.io/badge/Office.js-D83B01?logo=microsoft-office&logoColor=white" alt="Office.js" />
 </p>
 
-### **Architecture & Design**  
+### **Architecture & Design**
+
 <p align="left">
   <img src="https://img.shields.io/badge/OOP-FF6C37?logo=object-oriented-programming&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID%20Principles-FF6C37?logo=solid&logoColor=white" alt="SOLID" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white" alt="REST API" />
 </p>
 
-### **Testing**  
+### **Testing**
+
 <p align="left">
   <img src="https://img.shields.io/badge/xUnit-512BD4?logo=.net&logoColor=white" alt="xUnit" />
 </p>
 
 ---
 
-## 📚 Education & Certifications  
-- **BCA** | Tribhuvan University (Hetauda City College) *(2018 - 2023)*  
-- **ASP.NET Core Training** | Broadway Infosys *(2022, 113 Hrs)*  
-- **Web Page Designing** | NIIT Birgunj *(2016, 3 Months)*  
+## 📚 Education & Certifications
+
+- **BCA** | Tribhuvan University (Hetauda City College) _(2018 - 2023)_
+- **ASP.NET Core Training** | Broadway Infosys _(2022, 113 Hrs)_
+- **Web Page Designing** | NIIT Birgunj _(2016, 3 Months)_
 
 ---
 
-## 📫 Connect with Me  
-- **Email:** dev.gyanendrapc@gmail.com  
-- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/gyanendra-chaudhary)  
-- **Phone:** +977 9864374699  
-- **Location:** Kirtipur, Kathmandu, Nepal  
+## 📫 Connect with Me
+
+- **Email:** dev.gyanendrapc@gmail.com
+- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/gyanendra-chaudhary)
+- **Phone:** +977 9864374699
+- **Location:** Kirtipur, Kathmandu, Nepal
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-chaudhary&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanendra-chaudhary&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gyanendra-chaudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-> 💡 *"First, solve the problem. Then, write the code."* – John Johnson  
+> 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
