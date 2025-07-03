@@ -10,10 +10,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false  # Important!
+          persist-credentials: false
           
       - name: Update activity
-        uses: jasonetco/activity-box@main  # Changed from @v1 to @main
+        uses: readme-activity-box/activity-box@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "docs: Update activity log [skip ci]"
