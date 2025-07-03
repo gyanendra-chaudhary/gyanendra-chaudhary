@@ -13,7 +13,7 @@ jobs:
           persist-credentials: false  # Important!
           
       - name: Update activity
-        uses: JasonEtco/activity-box@v1
+        uses: jasonetco/activity-box@main  # Changed from @v1 to @main
         with:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Changed from GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "docs: Update activity log [skip ci]"
