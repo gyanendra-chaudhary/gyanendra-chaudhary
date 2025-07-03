@@ -30,11 +30,6 @@ exploring new technologies, contributing to open-source projects, or mentoring f
 <h2 align="center">🔥 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#123] in [owner/repo] - "Bug fix needed"
-2. 🎉 Merged PR [#456] in [owner/repo] - "Feature implementation"
-3. 💪 Opened PR [#789] in [owner/repo] - "Documentation update"
-4. 🚀 Pushed 3 commits to [owner/repo]
-5. ⭐️ Starred [owner/repo]
 <!--END_SECTION:activity-->
 
 <h2 align="center">📫 How to reach me</h2>
