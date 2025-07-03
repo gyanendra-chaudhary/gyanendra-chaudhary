@@ -104,26 +104,14 @@ I'm a **Full Stack Developer** with expertise in **ReactJS**, **.NET**, and **SQ
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanendra-chaudhary&theme=radical" alt="GitHub Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gyanendra-chaudhary&theme=radical" alt="GitHub Streak" />
-</p>
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=gyanendra-chaudhary&theme=radical" alt="Commits Per Day" />
 </p>
 ---
 
